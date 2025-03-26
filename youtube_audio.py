@@ -22,9 +22,10 @@ def download_m4a(url: str):
 
 
 if __name__ == "__main__":
+    import sys
 
     if not is_ffmpeg_installed():
         print("FFmpeg is not installed. Please install FFmpeg to use this script.")
-        exit(1)
+        sys.exit(1)
 
     download_m4a(url=input("Enter URL of YouTube video: "))
