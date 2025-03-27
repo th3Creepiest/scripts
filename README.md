@@ -16,3 +16,7 @@ Downloads a YouTube video as an M4A file.
 
 - the python _yt-dlp_ requirement must be installed
 - _ffmpeg_ is required and must be in the PATH
+
+## simple_scraper.py 🕷️
+
+A basic web scraper that extracts data from a given URL.
