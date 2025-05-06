@@ -14,15 +14,17 @@ Counts the number of files in the specified directory tree.
 
 Converts all JPG files in the specified directory tree to PNG format.
 
-- the python _pillow_ requirement must be installed
+- **pillow** requirement must be installed
 
 ## youtube_audio.py 🎶
 
 Downloads a YouTube video as an M4A file.
 
-- the python _yt-dlp_ requirement must be installed
-- _ffmpeg_ is required and must be in the PATH
+- **yt-dlp** requirement must be installed
+- **ffmpeg** is required and must be in the PATH
 
 ## simple_scraper.py 🕷️
 
 A basic web scraper that extracts data from a given URL.
+
+- **beautifulsoup4** requirement must be installed
