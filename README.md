@@ -10,6 +10,12 @@ Removes files from the specified directory tree after user confirmation.
 
 Counts the number of files in the specified directory tree.
 
+## jpg_to_png.py 🖼️
+
+Converts all JPG files in the specified directory tree to PNG format.
+
+- the python _pillow_ requirement must be installed
+
 ## youtube_audio.py 🎶
 
 Downloads a YouTube video as an M4A file.
