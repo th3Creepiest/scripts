@@ -1,4 +1,8 @@
-requests
 beautifulsoup4
-yt-dlp
+librosa
 pillow
+pretty_midi
+pygame
+requests
+setuptools
+yt-dlp
