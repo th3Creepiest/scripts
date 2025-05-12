@@ -2,6 +2,13 @@
 
 throw away scripts
 
+## audio_to_midi.py 🎵
+
+Converts all mp3 files in a directory to MIDI format.
+
+- **librosa** requirement must be installed
+- **pretty_midi** requirement must be installed
+
 ## clean_up.py 🧹
 
 Removes files from the specified directory tree after user confirmation.
@@ -15,6 +22,12 @@ Counts the number of files in the specified directory tree.
 Converts all JPG files in the specified directory tree to PNG format.
 
 - **pillow** requirement must be installed
+
+## play_midi.py 🎹
+
+Plays a MIDI file.
+
+- **pygame** requirement must be installed
 
 ## youtube_audio.py 🎶
 
